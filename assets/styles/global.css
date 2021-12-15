@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+.page{
+    display: flex;
+    width: 1600px;
+    height: 1250x;
+   
+    
+}
+/************ navbar**********/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar ul{
+    display: flex;
+    align-items:center;
+    text-decoration: none;
+    list-style-type: none;
+}
+.navbar ul li a{
+    padding: 16px;
+    text-decoration: none;
+}
+button{
+    background-color: blue;
+    
+}
+/****************************search bar*******************/
+
+.filters {
+ 
+ display:flex;
+} 
+
+.filters ul{
+    list-style: none;
+    display: flex
+}
+
+.container2{
+    background-color: #f2f2f2;
+    display: flex;
+   
+}
+
+    
+
+.footer{
+    display: flex;
+    
+    
+}
+
+
+
+
+
+
+
+    
+
